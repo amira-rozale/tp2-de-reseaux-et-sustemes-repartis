@@ -3,7 +3,7 @@ package tpn2;
 import java.io.*;
 import java.net.*;
 
-public class Server {
+public class server {
     public static void main(String[] args) {
         try {
             ServerSocket server = new ServerSocket(2434);
